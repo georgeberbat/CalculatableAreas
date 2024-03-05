@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <IsPackable>true</IsPackable>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageId>CalculatableAreas</PackageId>
+        <Version>0.0.1</Version>
+        <Authors>Gheorghe Berbat</Authors>
+        <Description>
+            This client library provides a set of classes and methods to calculate the area of different geometric shapes.
+        </Description>
+    </PropertyGroup>
+</Project>
